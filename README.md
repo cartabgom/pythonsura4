@@ -1,2 +1,2 @@
-# pythonsura4
-Clase 4
+Ciclos y Condiciones con Phyton
+Programado por Carlos a Tabaes G
